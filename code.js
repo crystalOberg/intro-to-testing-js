@@ -2,6 +2,12 @@
 function helloWorld() {
     return "Hello, World!";
 }
-function sayHello() {
-    return "";
+function sayHelloJane() {
+    return "Hello, Jane!";
+}
+function sayHelloAlex() {
+    return "Hello, Alex!";
+}
+function sayHelloPat() {
+    return "Hello, Pat!";
 }
